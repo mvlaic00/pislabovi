@@ -12,6 +12,8 @@ namespace ConsoleApp2
         public void DoNothing()
         {
             Console.Write("ISPIS");
+            
+            //popravak
 
         }
 
