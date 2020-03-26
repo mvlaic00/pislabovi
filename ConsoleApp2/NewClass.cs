@@ -8,5 +8,8 @@ namespace ConsoleApp2
 {
     class NewClass
     {
+        public void DoNothing()
+        {
+        }
     }
 }
